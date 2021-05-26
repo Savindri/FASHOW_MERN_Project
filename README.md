@@ -1,3 +1,9 @@
+#FASHOW - A web application for Gems and Jewelleries Store
+
+Tools and Technologies used: 
+MERN Stack, Bootstrap  
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
