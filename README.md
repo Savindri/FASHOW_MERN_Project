@@ -72,3 +72,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+Only Functions of Payment & Delivery Management and Deliverymen Management with CRUDs are included in the repository.
