@@ -1,4 +1,4 @@
-#FASHOW - A web application for Gems and Jewelleries Store
+# FASHOW - A web application for Gems and Jewelleries Store
 
 Tools and Technologies used: 
 MERN Stack, Bootstrap  
