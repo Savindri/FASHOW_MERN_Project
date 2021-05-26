@@ -1,7 +1,9 @@
 # FASHOW - A web application for Gems and Jewelleries Store
 
 Tools and Technologies used: 
-MERN Stack, Bootstrap  
+MERN Stack, Bootstrap 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -74,4 +76,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-Only Functions of Payment & Delivery Management and Deliverymen Management with CRUDs are included in the repository.
+-----------------Only Functions of Payment & Delivery Management and Deliverymen Management with CRUDs are included in the repository.-----------------------------
